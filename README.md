@@ -2,7 +2,7 @@ Note: this will probably be a bash cli to start. 😉 \
 FIRST for elixiir, and then for rrhuby, and then for other lannnguages.
 
 ## Starting products: (to be built)
-project #1: \
+project #1:
 1. Take current file 
  - create example-template folder, unless it exists
  - add new example to example-template folder
@@ -30,7 +30,7 @@ every time generator command add it to a history log file
 
 (you could rebuild an entire project if you knew all generator and migration commands!)
 
-project 5: \
+project 5:
 
 # Core Questions:
 How much do people know about generators?
