@@ -1,4 +1,4 @@
-Note: this will probably be a bash cli to start. 😉
+Note: this will probably be a bash cli to start. 😉 \
 FIRST for elixiir, and then for rrhuby, and then for other lannnguages.
 
 ## Starting products: (to be built)
