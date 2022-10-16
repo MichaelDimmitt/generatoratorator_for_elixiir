@@ -1,3 +1,38 @@
+Note: this will probably be a bash cli to start. 😉
+FIRST for elixiir, and then for rrhuby, and then for other lannnguages.
+
+## Starting products: (to be built)
+project #1:
+1. Take current file 
+ - create example-template folder, unless it exists
+ - add new example to example-template folder
+ - do not override existing files
+ - add a new name ? [Yn]
+ - also create template from "commit sha"
+ - multi-file support, would put all files into a folder of the specified template name.
+ 
+project #2
+2. promote project templates to user level so that it can be used in other projects
+
+project #3:
+3. open example-template folder if it exists, "good --reveal"
+ - note: if global templates exist they should be opened too.
+ - note: we follow the following precedence
+ 1. local
+ 2. global
+ 3. language template defaults. (these do not show by default but can be requested) (also link to generator website)
+ also when we are adding templates in project #1 we need to look for name colisions on higher scopes too!
+ 
+project #4:
+generator command history.
+every time generator command add it to a history log file
+
+(you could rebuild an entire project if you knew all generator and migration commands!)
+
+project 5:
+
+
+
 # Core Questions:
 How much do people know about generators?
 
@@ -42,3 +77,4 @@ good "implementations file" has a see templates link.
 
 good-template --show
 ```
+Sometimes and alternative to this is called an engine like a rails engine that all projects inherit from.
