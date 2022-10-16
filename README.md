@@ -13,6 +13,7 @@ project #1:
  
 project #2
 2. promote project templates to user level so that it can be used in other projects
+ - option to promote to language level, which auto creates a pr. lol, jk.
 
 project #3:
 3. open example-template folder if it exists, "good --reveal"
